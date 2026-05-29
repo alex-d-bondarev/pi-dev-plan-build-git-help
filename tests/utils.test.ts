@@ -60,7 +60,7 @@ describe("isMutatingGitCommand", () => {
   ];
 
   const nonMutating = [
-    "git commit -m 'this should fail'",
+    "git status",
     "git log --oneline",
     "git diff HEAD",
     "git fetch origin",
