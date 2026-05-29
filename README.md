@@ -8,6 +8,12 @@ I want to limit pi.dev actions based on the mode
 pi install git:github.com/alex-d-bondarev/pi-dev-plan-build-git-help@v1.0.0
 ```
 
+## Use
+
+```
+/mode help
+```
+
 ## Future updates
 
 ### 1. Make a change
