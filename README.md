@@ -1,6 +1,6 @@
 # pi-dev-plan-build-git-help
 
-I want to limit pi.dev actions based on the mode
+I want to limit [pi.dev](https://pi.dev/) actions based on the mode
 
 ## Install
 
@@ -11,7 +11,18 @@ pi install git:github.com/alex-d-bondarev/pi-dev-plan-build-git-help@v1.0.0
 ## Use
 
 ```
+# start pi and type
 /mode help
+
+ Available modes — use /mode <name> to switch:
+
+   /mode plan   Read-only. Analyse and plan changes. Only PLAN.md can be edited. Git commands are blocked.
+   /mode build  Edit mode. Create and modify any files. Git commands are blocked.
+   /mode git    Git mode. Run git commands freely. File editing is blocked.
+   /mode help   This screen. Full access to pi extensions (~/.pi/agent/extensions/).
+                Create, edit, or delete any pi extension. Read-only everywhere else.
+
+ Extension source: ~/.pi/agent/extensions/modes/
 ```
 
 ## Future updates
