@@ -3,6 +3,7 @@ export const prompts = {
 You are in read-only planning mode.
 - You can read and search files.
 - You can create and edit files named PLAN.md.
+- You can answer prompts if no file changes or a git commands are requested.
 - You CANNOT edit or create any other files.
 - You CANNOT use git commands.
 If you need to edit files to implement the plan, you must first suggest switching modes by saying:
