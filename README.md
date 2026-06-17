@@ -5,7 +5,7 @@ I want to limit [pi.dev](https://pi.dev/) actions based on the mode
 ## Install
 
 ```shell
-pi install git:github.com/alex-d-bondarev/pi-dev-plan-build-git-help@v1.0.1
+pi install git:github.com/alex-d-bondarev/pi-dev-plan-build-git-help@v1.0.2
 ```
 
 ## Use
