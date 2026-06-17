@@ -2,9 +2,13 @@
   "name": "plan-build-git-help",
   "version": "1.0.0",
   "description": "Plan/Build/Git/Help mode switcher extension for pi",
-  "keywords": ["pi-package"],
+  "keywords": [
+    "pi-package"
+  ],
   "pi": {
-    "extensions": ["./index.ts"]
+    "extensions": [
+      "./index.ts"
+    ]
   },
   "scripts": {
     "test": "vitest run",
@@ -14,6 +18,6 @@
     "@earendil-works/pi-coding-agent": "*"
   },
   "devDependencies": {
-    "vitest": "^2.0.0"
+    "vitest": "^4.1.9"
   }
 }
