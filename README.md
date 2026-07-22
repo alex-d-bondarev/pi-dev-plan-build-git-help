@@ -3,10 +3,10 @@
 I want to limit [pi.dev](https://pi.dev/) actions based on the mode
 
 > [!NOTE]
-> After using it for a while I learned that skills work better than this kind of extension.
-> I took most of them from the https://github.com/abubakarsiddik31/claude-skills-collection repository
-> and saved to the SKILLS folder.
-> To make them work with pi copy any skill into pi skills folder like `~/.pi/agent/skills/<skill_name>`.
+> After using it for a while I learned that skills work better than this extension.
+> I don't have any specific skill to share, but maybe https://github.com/abubakarsiddik31/claude-skills-collection repository
+> is a good starting point :shrug: ?!
+> To make them work with pi copy any skill into pi skills folder: `~/.pi/agent/skills/<skill_name>`.
 
 ## (Un)Install
 
