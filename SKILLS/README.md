@@ -1,11 +1,5 @@
-# Tried so far
+# Used so far
 
-## compound-engineering-plugin
-
-[GitHub link](https://github.com/EveryInc/compound-engineering-plugin) 
-
-```shell
-pi install git:github.com/EveryInc/compound-engineering-plugin
-pi install npm:pi-subagents
-pi install npm:pi-ask-user
-```
+- [Objective thinking](./objective.md)
+- [Matt's skills](https://github.com/mattpocock/skills)
+- [pstack](https://github.com/cursor/plugins/tree/main/pstack/skills)
